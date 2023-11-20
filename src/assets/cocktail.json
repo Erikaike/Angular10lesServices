@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Sex on the beach",
+        "price": 10,
+        "picture": "https://loremflickr.com/640/360"
+    },
+    {
+        "name": "Marguarita",
+        "price": 13,
+        "picture": "https://placekitten.com/640/360"
+    },
+    {
+        "name": "Martini",
+        "price": 8,
+        "picture": "https://placebeard.it/640x360"
+    }
+]
+    
